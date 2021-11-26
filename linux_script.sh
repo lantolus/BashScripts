@@ -1,6 +1,9 @@
 #!/bin/bash
 
 echo "This is Installation script"
+echo "###########################"
+echo "PLEASE RUN THIS SCRIPT AS ROOT"
+echo "If you are not signed as root, press CTRL+C and please come back with superpowers"
 
 function main_menu() {
     echo "INSTALLATION MENU"
